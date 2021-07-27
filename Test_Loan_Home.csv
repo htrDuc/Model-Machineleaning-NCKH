@@ -1,0 +1,368 @@
+﻿Full_Name,Loan_ID,Gender,Married,Dependents,Self_Employed,Salary,Loan_Amount,Loan_Amount_Term,Region,Credit_History
+ Vũ  Hàm Thơ,LP001015,Male,Yes,0,No,5720,110,360,Bắc Giang,1
+ Trần  Anh Thư,LP001022,Male,Yes,1,No,3076,126,360,Hồ Chí Minh,1
+ Hoàng/Huỳnh  Diệu Vân,LP001031,Male,Yes,2,No,5000,208,360,Ninh Bình,1
+ Trần  Cát Tiên,LP001035,Male,Yes,2,No,2340,100,360,Ninh Bình,
+ Hoàng/Huỳnh  Dã Lan,LP001051,Male,No,0,No,3276,78,360,Hà Nội,1
+ Hoàng/Huỳnh  Hạnh Vi,LP001054,Male,Yes,0,Yes,2165,152,360,Bắc Giang,1
+ Phạm  Hoàn Châu,LP001055,Female,No,1,No,2226,59,360,Đà Nẵng,1
+ Đỗ  Diễm Hương,LP001056,Male,Yes,2,No,3881,147,360,Hồ Chí Minh,0
+ Đỗ  Dã Lan,LP001059,Male,Yes,2,,13633,280,240,Đà Nẵng,1
+ Hoàng/Huỳnh  Hảo Nhi,LP001067,Male,No,0,No,2400,123,360,Hà Nội,1
+ Trần  Hương Nhi,LP001078,Male,No,0,No,3091,90,360,Hồ Chí Minh,1
+ Đặng  Duyên Mỹ,LP001082,Male,Yes,1,,2185,162,360,Hà Nội,1
+ Nguyễn  Ðoan Trang,LP001083,Male,No,3+,No,4166,40,180,Hà Nội,
+ Phạm  Ái Vân,LP001094,Male,Yes,2,,12173,166,360,Đà Nẵng,0
+ Trần  Bảo Bình,LP001096,Female,No,0,No,4666,124,360,Đà Nẵng,1
+ Lý  Hải Uyên,LP001099,Male,No,1,No,5667,131,360,Hồ Chí Minh,1
+ Phạm  Ái Vân,LP001105,Male,Yes,2,No,4583,200,360,Đà Nẵng,1
+ Đặng  Hải Ðường,LP001107,Male,Yes,3+,No,3786,126,360,Đà Nẵng,1
+ Lý  Cẩm Linh,LP001108,Male,Yes,0,No,9226,300,360,Bắc Giang,1
+ Ngô  Hồng Thu,LP001115,Male,No,0,No,1300,100,180,Bắc Giang,1
+ Đặng  Băng Tâm,LP001121,Male,Yes,1,No,1888,48,360,Đà Nẵng,1
+ Hoàng/Huỳnh  Hoàng Mai,LP001124,Female,No,3+,No,2083,28,180,Bắc Giang,1
+ Hoàng/Huỳnh  Dạ Thảo,LP001128,,No,0,No,3909,101,360,Ninh Bình,1
+ Trần  Hồng Khanh,LP001135,Female,No,0,No,3765,125,360,Đà Nẵng,1
+ Trần  Diễm My,LP001149,Male,Yes,0,No,5400,290,360,Hồ Chí Minh,1
+ Trần  Duyên Nương,LP001153,Male,No,0,No,0,148,360,Đà Nẵng,0
+ Phạm  Diễm Hằng,LP001163,Male,Yes,2,No,4363,140,360,Ninh Bình,
+Võ  Hàm Thơ,LP001169,Male,Yes,0,No,7500,275,360,Bắc Giang,1
+ Hoàng/Huỳnh  Huệ Lan,LP001174,Male,Yes,0,No,3772,57,360,Bắc Giang,
+ Hoàng/Huỳnh  Huyền Thoại,LP001176,Male,No,0,No,2942,125,180,Hà Nội,1
+ Đỗ  Ái Thy,LP001177,Female,No,0,No,2478,75,360,Hà Nội,1
+ Hồ  Hải Duyên,LP001183,Male,Yes,2,No,6250,192,360,Đà Nẵng,1
+ Đỗ  Ðan Thu,LP001185,Male,No,0,No,3268,152,360,Ninh Bình,1
+ Trần  Hạnh Chi,LP001187,Male,Yes,0,No,2783,158,360,Hồ Chí Minh,1
+ Lý  An Bình,LP001190,Male,Yes,0,No,2740,101,360,Bắc Ninh,1
+ Phạm  Hoàn Châu,LP001203,Male,No,0,No,3150,176,360,Bắc Giang,0
+ Ngô  Hoàng Thư,LP001208,Male,Yes,2,,7350,185,180,Ninh Bình,1
+ Phan  Diễm Liên,LP001210,Male,Yes,0,Yes,2267,90,360,Hồ Chí Minh,1
+ Vũ  Bảo Quỳnh,LP001211,Male,No,0,Yes,5833,116,360,Hà Nội,1
+ Vũ  Hương Thủy,LP001219,Male,No,0,No,3643,138,360,Đà Nẵng,1
+ Trần  Diễm Trinh,LP001220,Male,Yes,0,No,5629,100,360,Ninh Bình,1
+ Dương  Dạ Thi,LP001221,Female,No,0,No,3644,110,360,Hồ Chí Minh,1
+ Ngô  Hoàng Oanh,LP001226,Male,Yes,0,No,1750,90,360,Bắc Giang,1
+ Phạm  Hồng Diễm,LP001230,Male,No,0,No,6500,200,360,Ninh Bình,1
+ Trần  Hiền Mai,LP001231,Female,No,0,No,3666,84,360,Đà Nẵng,1
+ Hoàng/Huỳnh  Hạ Tiên,LP001232,Male,Yes,0,No,4260,185,,Hồ Chí Minh,
+ Hoàng/Huỳnh  Huệ Phương,LP001237,Male,Yes,,No,4163,162,360,Ninh Bình,1
+ Lý  Hoàng Yến,LP001242,Male,No,0,No,2356,108,360,Ninh Bình,1
+ Dương  Dạ Yến,LP001268,Male,No,0,No,6792,187,,Ninh Bình,1
+ Vũ  Diệu Ngọc,LP001270,Male,Yes,3+,Yes,8000,187,360,Hồ Chí Minh,1
+ Trần  Hồng Nga,LP001284,Male,Yes,1,No,2419,124,360,Ninh Bình,1
+ Đỗ  Hoàng Miên,LP001287,,Yes,3+,No,3500,120,360,Ninh Bình,1
+ Trần  Hồng Vân,LP001291,Male,Yes,1,No,3500,160,360,Ninh Bình,1
+ Ngô  Hồng Thúy,LP001298,Male,Yes,2,No,4116,30,180,Bắc Ninh,1
+ Đặng  Hạnh Dung,LP001312,Male,Yes,0,Yes,5293,92,360,Đà Nẵng,1
+ Vũ  Hồng Thủy,LP001313,Male,No,0,No,2750,130,360,Đà Nẵng,0
+Võ  Duy Uyên,LP001317,Female,No,0,No,4402,130,360,Hà Nội,1
+ Phạm  Bích Thủy,LP001321,Male,Yes,2,No,3613,134,180,Bắc Giang,1
+ Lý  Hồng Thúy,LP001323,Female,Yes,2,No,2779,176,360,Bắc Ninh,0
+ Lý  Dạ Yến,LP001324,Male,Yes,3+,No,4720,90,180,Hà Nội,1
+ Phan  Gia Hân,LP001332,Male,Yes,0,No,2415,110,360,Ninh Bình,1
+ Vũ  Cát Cát,LP001335,Male,Yes,0,Yes,7016,125,360,Bắc Ninh,1
+ Phan  Hà Liên,LP001338,Female,No,2,No,4968,189,360,Bắc Giang,1
+ Phan  Cẩm Hường,LP001347,Female,No,0,No,2101,108,360,Đà Nẵng,0
+ Lý  Giao Kiều,LP001348,Male,Yes,3+,No,4490,125,360,Hồ Chí Minh,1
+ Hoàng/Huỳnh  Cẩm Hạnh,LP001351,Male,Yes,0,No,2917,138,360,Ninh Bình,1
+ Trần  Hạnh Linh,LP001352,Male,Yes,0,No,4700,135,360,Bắc Ninh,0
+ Lê  Dạ Thảo,LP001358,Male,Yes,0,No,3445,130,360,Bắc Ninh,0
+ Đỗ  Ánh Thơ,LP001359,Male,Yes,0,No,7666,187,360,Đà Nẵng,1
+ Hồ  Hương Giang,LP001361,Male,Yes,0,No,2458,188,360,Ninh Bình,0
+ Vũ  Duy Uyên,LP001366,Female,No,,No,3250,95,360,Đà Nẵng,1
+ Lý  Bạch Tuyết,LP001368,Male,No,0,No,4463,65,360,Bắc Giang,1
+ Phạm  Cẩm Hiền,LP001375,Male,Yes,1,,4083,139,60,Bắc Giang,1
+ Đỗ  Bảo Bình,LP001380,Male,Yes,0,Yes,3900,232,360,Đà Nẵng,1
+ Đỗ  Duy Uyên,LP001386,Male,Yes,0,No,4750,144,360,Bắc Giang,1
+ Hồ  Bích Ngà,LP001400,Male,No,0,No,3583,155,360,Bắc Ninh,1
+ Đặng  Cẩm Liên,LP001407,Male,Yes,0,No,3189,186,360,Hà Nội,1
+ Đặng  Hoàng Lan,LP001413,Male,No,0,Yes,6356,50,360,Ninh Bình,1
+ Dương  Diệu Hương,LP001415,Male,Yes,1,No,3413,,360,Bắc Giang,1
+ Phạm  Ái Linh,LP001419,Female,Yes,0,No,7950,185,360,Hồ Chí Minh,1
+ Đặng  Ðan Thu,LP001420,Male,Yes,3+,No,3829,163,360,Đà Nẵng,0
+ Phạm  Ánh Nguyệt,LP001428,Male,Yes,3+,No,72529,360,360,Ninh Bình,1
+ Phạm  Hồ Diệp,LP001445,Male,Yes,2,No,4136,149,480,Ninh Bình,0
+ Phạm  Hương Nhi,LP001446,Male,Yes,0,No,8449,257,360,Ninh Bình,1
+ Đặng  Bích Duyên,LP001450,Male,Yes,0,No,4456,131,180,Ninh Bình,0
+ Trần  Bạch Mai,LP001452,Male,Yes,2,No,4635,102,180,Ninh Bình,1
+ Phạm  Hoàng Hà,LP001455,Male,Yes,0,No,3571,135,360,Hà Nội,1
+Võ  Diệu Ngà,LP001466,Male,No,0,No,3066,95,360,Ninh Bình,1
+ Nguyễn  Bích Loan,LP001471,Male,No,2,No,3235,77,360,Đà Nẵng,1
+ Lê  Hoài An,LP001472,Female,No,0,,5058,200,360,Ninh Bình,1
+ Bùi  Hồng Thảo,LP001475,Male,Yes,0,Yes,3188,130,360,Hà Nội,
+ Hồ  Hoài Thương,LP001483,Male,Yes,3+,No,13518,390,360,Bắc Giang,1
+ Vũ  Bảo Thúy,LP001486,Male,Yes,1,No,4364,185,360,Ninh Bình,1
+ Lý  Hải Ðường,LP001490,Male,Yes,2,No,4766,100,360,Hồ Chí Minh,1
+ Dương  Bảo Tiên,LP001496,Male,Yes,1,No,4609,123,360,Hà Nội,0
+ Hồ  Hạnh Chi,LP001499,Female,Yes,3+,No,6260,110,360,Hà Nội,1
+ Đặng  Hồng Hà,LP001500,Male,Yes,1,No,3333,256,360,Bắc Giang,1
+ Phạm  Diệu Huyền,LP001501,Male,Yes,0,No,3500,140,360,Đà Nẵng,1
+ Lý  Hồng Oanh,LP001517,Male,Yes,3+,No,9719,61,360,Đà Nẵng,1
+Võ  Hồng Lâm,LP001527,Male,Yes,3+,No,6835,188,360,Hồ Chí Minh,
+ Bùi  Huyền Ngọc,LP001534,Male,No,0,No,4452,131,360,Ninh Bình,1
+ Phan  Anh Thư,LP001542,Female,Yes,0,No,2262,,480,Ninh Bình,0
+ Dương  Anh Hương,LP001547,Male,Yes,1,No,3901,116,360,Bắc Giang,1
+Võ  Bích Phượng,LP001548,Male,Yes,2,No,2687,50,180,Hà Nội,1
+ Ngô  Ánh Ngọc,LP001558,Male,No,0,No,2243,107,360,Bắc Ninh,
+ Trần  Hạnh Dung,LP001561,Female,Yes,0,No,3417,200,360,Hồ Chí Minh,1
+ Đỗ  Bảo Ngọc,LP001563,,No,0,No,1596,119,360,Bắc Giang,0
+ Dương  Bạch Quỳnh,LP001567,Male,Yes,3+,No,4513,120,360,Hồ Chí Minh,1
+ Vũ  Hương Liên,LP001568,Male,Yes,0,No,4500,140,360,Hà Nội,1
+ Phan  Gia Hân,LP001573,Male,Yes,0,No,4523,165,360,Hồ Chí Minh,1
+Võ  Cẩm Hạnh,LP001584,Female,No,0,Yes,4742,108,360,Bắc Ninh,1
+ Trần  Hải Miên,LP001587,Male,Yes,,No,4082,93,360,Bắc Giang,1
+ Hoàng/Huỳnh  Bích Ty,LP001589,Female,No,0,No,3417,102,360,Hà Nội,1
+ Đặng  Huyền Trâm,LP001591,Female,Yes,2,No,2922,122,360,Đà Nẵng,1
+ Ngô  Ðan Quỳnh,LP001599,Male,Yes,0,No,4167,160,360,Hà Nội,1
+Võ  Bích Thoa,LP001601,Male,No,3+,No,4243,157,360,Hồ Chí Minh,
+ Phạm  Ðinh Hương,LP001607,Female,No,0,No,0,180,360,Hồ Chí Minh,1
+ Hoàng/Huỳnh  Bảo Ngọc,LP001611,Male,Yes,1,No,1516,80,,Hồ Chí Minh,0
+ Nguyễn  Hoài Hương,LP001613,Female,No,0,No,1762,104,360,Hồ Chí Minh,0
+ Phạm  Bảo Thoa,LP001622,Male,Yes,2,No,724,213,360,Ninh Bình,0
+ Dương  Ái Vân,LP001627,Male,No,0,No,3125,65,360,Hà Nội,1
+ Lê  Diệu Loan,LP001650,Male,Yes,0,No,2333,146,360,Bắc Ninh,1
+ Hồ  Diệu Hiền,LP001651,Male,Yes,3+,No,3350,135,360,Hồ Chí Minh,1
+ Phan  Hồng Xuân,LP001652,Male,No,0,No,2500,187,360,Đà Nẵng,0
+ Ngô  Hồng Khuê,LP001655,Female,No,0,No,12500,300,360,Hà Nội,0
+ Phan  Hồng Thủy,LP001660,Male,No,0,No,4667,120,360,Đà Nẵng,1
+ Vũ  Diệu Loan,LP001662,Male,No,0,No,6500,71,360,Đà Nẵng,0
+Võ  Bích Hảo,LP001663,Male,Yes,2,No,7500,225,360,Hồ Chí Minh,1
+ Nguyễn  Duyên My,LP001667,Male,No,0,No,3073,70,180,Đà Nẵng,1
+ Đặng  Diễm Hằng,LP001695,Male,Yes,1,No,3321,70,,Bắc Ninh,1
+ Bùi  Hải Sinh,LP001703,Male,Yes,0,No,3333,124,360,Hà Nội,1
+ Dương  Diệu Vân,LP001718,Male,No,0,No,3391,132,360,Đà Nẵng,1
+ Đặng  Hà Giang,LP001728,Male,Yes,1,Yes,3343,105,360,Đà Nẵng,1
+ Vũ  Hồng Vân,LP001735,Female,No,1,No,3620,90,360,Hồ Chí Minh,1
+ Hoàng/Huỳnh  Duyên Hồng,LP001737,Male,No,0,No,4000,83,84,Hồ Chí Minh,1
+ Hồ  An Bình,LP001739,Male,Yes,0,No,4258,125,360,Bắc Ninh,1
+ Lê  Hồng Khôi,LP001742,Male,Yes,2,No,4500,147,360,Bắc Giang,1
+ Đỗ  Cẩm Hạnh,LP001757,Male,Yes,1,No,2014,120,360,Bắc Giang,1
+ Dương  Bích Thảo,LP001769,,No,,No,3333,110,360,Hà Nội,1
+ Dương  An Nhàn,LP001771,Female,No,3+,No,4083,103,360,Bắc Ninh,
+ Lý  Hương Xuân,LP001785,Male,No,0,No,4727,150,360,Bắc Giang,0
+ Lê  Huệ Lan,LP001787,Male,Yes,3+,No,3089,100,240,Bắc Ninh,1
+ Đặng  Hương Lan,LP001789,Male,Yes,3+,,6794,139,360,Hồ Chí Minh,0
+Võ  Huỳnh Anh,LP001791,Male,Yes,0,Yes,32000,550,360,Đà Nẵng,
+ Lý  Cẩm Nhi,LP001794,Male,Yes,2,Yes,10890,260,12,Hồ Chí Minh,1
+ Vũ  Ái Thi,LP001797,Female,No,0,No,12941,150,300,Hồ Chí Minh,1
+ Lý  Hiền Hòa,LP001815,Male,No,0,No,3276,90,360,Hồ Chí Minh,1
+ Ngô  Bảo Vân,LP001817,Male,No,0,Yes,8703,199,360,Đà Nẵng,0
+ Bùi  Diễm Chi,LP001818,Male,Yes,1,No,4742,139,360,Đà Nẵng,1
+ Đỗ  Ánh Xuân,LP001822,Male,No,0,No,5900,150,360,Ninh Bình,1
+ Phạm  Ái Nhân,LP001827,Male,No,0,No,3071,180,360,Đà Nẵng,1
+ Đỗ  Hạnh San,LP001831,Male,Yes,0,No,2783,113,360,Ninh Bình,1
+Võ  Bích Hà,LP001842,Male,No,0,No,5000,148,360,Đà Nẵng,1
+ Bùi  Hạ Uyên,LP001853,Male,Yes,1,No,2463,117,360,Bắc Giang,0
+ Lý  Bảo Uyên,LP001855,Male,Yes,2,No,4855,72,360,Hà Nội,1
+ Hồ  Diễm My,LP001857,Male,No,0,Yes,1599,125,300,Đà Nẵng,1
+ Đặng  Diệu Loan,LP001862,Male,Yes,2,Yes,4246,214,360,Ninh Bình,1
+ Phan  Bảo Tiên,LP001867,Male,Yes,0,No,4333,133,350,Bắc Giang,1
+ Đặng  Giao Kiều,LP001878,Male,No,1,No,5823,187,360,Ninh Bình,1
+ Bùi  Diễm My,LP001881,Male,Yes,0,No,7895,143,360,Ninh Bình,1
+ Ngô  An Hằng,LP001886,Male,No,0,No,4150,209,360,Bắc Ninh,1
+ Trần  Ánh Xuân,LP001906,Male,No,0,,2964,84,360,Hồ Chí Minh,0
+ Trần  Huệ My,LP001909,Male,No,0,No,5583,116,360,Bắc Ninh,1
+ Hồ  Hương Thảo,LP001911,Female,No,0,No,2708,65,360,Đà Nẵng,1
+ Hoàng/Huỳnh  Hồng Như,LP001921,Male,No,1,No,3180,80,240,Ninh Bình,
+ Trần  Hồng Nga,LP001923,Male,No,0,No,2268,170,360,Bắc Ninh,0
+ Dương  Hiếu Hạnh,LP001933,Male,No,2,No,1141,120,360,Ninh Bình,0
+ Trần  Ái Khanh,LP001943,Male,Yes,0,No,3042,135,360,Đà Nẵng,1
+ Trần  Hồng Thảo,LP001950,Female,Yes,3+,,1750,94,360,Đà Nẵng,0
+Võ  Anh Ðào,LP001959,Female,Yes,1,No,3564,79,360,Đà Nẵng,1
+ Nguyễn  Huệ Lan,LP001961,Female,No,0,No,3958,110,360,Bắc Ninh,1
+ Đặng  Hạ Tiên,LP001973,Male,Yes,2,No,4483,130,360,Hà Nội,1
+ Trần  Diễm Phượng,LP001975,Male,Yes,0,No,5225,143,360,Bắc Giang,1
+ Bùi  Chi Mai,LP001979,Male,No,0,No,3017,159,180,Bắc Giang,0
+ Đặng  Hoa Tiên,LP001995,Male,Yes,0,No,2431,110,360,Đà Nẵng,0
+ Nguyễn  Anh Ðào,LP001999,Male,Yes,2,,4912,160,360,Bắc Ninh,1
+ Nguyễn  Diễm Thảo,LP002007,Male,Yes,2,No,2500,131,360,Hà Nội,1
+ Ngô  Cẩm Yến,LP002009,Female,No,0,No,2918,65,360,Hồ Chí Minh,
+ Lê  Diễm Quyên,LP002016,Male,Yes,2,No,5128,143,360,Bắc Giang,1
+ Lý  Diễm Hạnh,LP002017,Male,Yes,3+,No,15312,187,360,Hồ Chí Minh,
+ Lê  Bảo Hân,LP002018,Male,Yes,2,No,3958,160,360,Bắc Ninh,1
+ Dương  Diệu Ngọc,LP002027,Male,Yes,0,No,4334,165,360,Hồ Chí Minh,1
+ Dương  Hoài Trang,LP002028,Male,Yes,2,No,4358,110,360,Hà Nội,1
+ Trần  Bích Hạnh,LP002042,Female,Yes,1,No,4000,173,360,Đà Nẵng,1
+ Phạm  Hương Nhi,LP002045,Male,Yes,3+,No,10166,150,,Đà Nẵng,1
+ Phan  Cẩm Linh,LP002046,Male,Yes,0,No,4483,135,360,Bắc Giang,
+ Trần  Hoài Thương,LP002047,Male,Yes,2,No,4521,150,360,Ninh Bình,1
+ Đặng  Diệu Nga,LP002056,Male,Yes,2,No,9167,235,360,Hồ Chí Minh,1
+ Hoàng/Huỳnh  Diệu Thúy,LP002057,Male,Yes,0,No,13083,,360,Bắc Ninh,1
+ Hoàng/Huỳnh  Bích Hiền,LP002059,Male,Yes,2,No,7874,336,360,Ninh Bình,1
+ Dương  Huệ Hồng,LP002062,Female,Yes,1,No,4333,132,84,Bắc Giang,1
+ Bùi  Diễm Phước,LP002064,Male,No,0,No,4083,96,360,Bắc Ninh,1
+ Đặng  Bích Thủy,LP002069,Male,Yes,2,,3785,180,360,Ninh Bình,0
+ Bùi  Diễm Trinh,LP002070,Male,Yes,3+,No,2654,128,360,Đà Nẵng,0
+ Lê  Diễm Quyên,LP002077,Male,Yes,1,No,10000,412,360,Ninh Bình,1
+ Ngô  Hương Nhi,LP002083,Male,No,0,Yes,5833,116,360,Bắc Ninh,1
+ Hồ  Hồng Ngân,LP002090,Male,Yes,1,No,4796,114,360,Bắc Ninh,0
+ Vũ  Hải Miên,LP002096,Male,Yes,0,No,2000,115,360,Đà Nẵng,1
+ Trần  Ái Khanh,LP002099,Male,Yes,2,No,2540,104,360,Hồ Chí Minh,0
+ Phạm  Diễm Liên,LP002102,Male,Yes,0,Yes,1900,88,360,Bắc Ninh,1
+ Trần  Hải Sinh,LP002105,Male,Yes,0,Yes,8706,108,480,Đà Nẵng,1
+ Lý  Ánh Hoa,LP002107,Male,Yes,3+,No,2855,90,360,Hà Nội,1
+ Nguyễn  Hạ Phương,LP002111,Male,Yes,,No,3016,100,360,Bắc Giang,
+ Hoàng/Huỳnh  Diễm Thảo,LP002117,Female,Yes,0,No,3159,108,360,Bắc Ninh,1
+ Nguyễn  Bích Quân,LP002118,Female,No,0,No,1937,78,360,Ninh Bình,1
+ Trần  Diệu Nga,LP002123,Male,Yes,0,No,2613,123,360,Đà Nẵng,1
+ Bùi  Ban Mai,LP002125,Male,Yes,1,No,4960,187,360,Đà Nẵng,1
+ Ngô  Hồng Như,LP002148,Male,Yes,1,No,3074,146,360,Hồ Chí Minh,1
+ Phạm  Diễm Hằng,LP002152,Female,No,0,No,4213,80,360,Hồ Chí Minh,1
+ Vũ  Băng Băng,LP002165,,No,1,No,2038,100,360,Đà Nẵng,1
+ Vũ  Hồng Lâm,LP002167,Female,No,0,No,2362,55,360,Hồ Chí Minh,1
+ Vũ  Diệu Hiền,LP002168,Male,No,0,No,5333,200,360,Hà Nội,0
+ Vũ  Duy Hạnh,LP002172,Male,Yes,3+,Yes,5384,150,360,Hà Nội,1
+ Phạm  Hải Anh,LP002176,Male,No,0,No,5708,150,360,Hồ Chí Minh,1
+ Phan  Diễm Hạnh,LP002183,Male,Yes,0,No,3754,118,,Ninh Bình,1
+ Hồ  Cẩm Hạnh,LP002184,Male,Yes,0,No,2914,150,300,Hà Nội,1
+ Vũ  Bích Hạnh,LP002186,Male,Yes,0,No,2747,118,36,Hà Nội,1
+Võ  Bích Chiêu,LP002192,Male,Yes,0,No,7830,212,360,Ninh Bình,1
+ Hồ  Duy Hạnh,LP002195,Male,Yes,1,Yes,3507,212,360,Hồ Chí Minh,1
+ Đặng  Hải Thảo,LP002208,Male,Yes,1,No,3747,125,360,Đà Nẵng,1
+ Hồ  Bảo Vy,LP002212,Male,Yes,0,No,2166,108,360,Hồ Chí Minh,
+ Hồ  Gia Linh,LP002240,Male,Yes,0,No,3500,149,360,Ninh Bình,1
+ Ngô  Hoa Liên,LP002245,Male,Yes,2,No,2896,80,480,Hà Nội,1
+ Phạm  Cát Cát,LP002253,Female,No,1,No,5062,152,300,Bắc Ninh,1
+ Vũ  Bích Quân,LP002256,Female,No,2,Yes,5184,187,360,Bắc Giang,0
+Võ  Hồng Lâm,LP002257,Female,No,0,No,2545,74,360,Đà Nẵng,1
+ Trần  Hương Thủy,LP002264,Male,Yes,0,No,2553,102,360,Hà Nội,1
+ Lý  Hoa Thiên,LP002270,Male,Yes,1,No,3436,100,360,Đà Nẵng,1
+ Trần  Huỳnh Anh,LP002279,Male,No,0,No,2412,130,360,Hồ Chí Minh,1
+ Lý  Hạnh Chi,LP002286,Male,Yes,3+,No,5180,125,360,Hồ Chí Minh,0
+ Hồ  Diệu Vân,LP002294,Male,No,0,No,14911,130,360,Đà Nẵng,1
+ Đặng  Bạch Trà,LP002298,,No,0,Yes,2860,138,360,Hồ Chí Minh,1
+ Phan  Cam Thảo,LP002306,Male,Yes,0,No,1173,28,180,Hồ Chí Minh,1
+ Dương  Diệu Hạnh,LP002310,Female,No,1,No,7600,92,360,Hà Nội,1
+ Phan  Hồng Thủy,LP002311,Female,Yes,0,No,2157,104,360,Bắc Giang,1
+ Trần  Gia Nhi,LP002316,Male,No,0,No,2231,176,360,Bắc Giang,0
+ Phan  Anh Thảo,LP002321,Female,No,0,No,2274,117,360,Hồ Chí Minh,0
+Võ  Diệu Nga,LP002325,Male,Yes,2,No,6166,102,360,Ninh Bình,1
+ Vũ  Ái Nhân,LP002326,Male,Yes,2,No,2513,107,360,Đà Nẵng,1
+ Bùi  Diễm Quỳnh,LP002329,Male,No,0,No,4333,66,480,Bắc Ninh,1
+ Phạm  Bảo Thoa,LP002333,Male,No,0,No,3844,105,360,Hà Nội,1
+ Vũ  Diễm Thảo,LP002339,Male,Yes,0,No,3887,105,360,Đà Nẵng,0
+ Hồ  Hoàng Cúc,LP002344,Male,Yes,0,No,3510,105,360,Đà Nẵng,1
+ Trần  Diễm Phương,LP002346,Male,Yes,0,,2539,125,360,Bắc Giang,0
+ Lý  Hải My,LP002354,Female,No,0,No,2107,64,360,Ninh Bình,1
+ Hoàng/Huỳnh  Bạch Vân,LP002355,,Yes,0,No,3186,150,180,Bắc Ninh,0
+ Hồ  Diễm Lộc,LP002358,Male,Yes,2,Yes,5000,150,360,Hà Nội,1
+ Ngô  Duy Mỹ,LP002360,Male,Yes,,No,10000,,360,Hà Nội,1
+ Trần  Hồng Thu,LP002375,Male,Yes,0,Yes,3943,64,360,Bắc Ninh,1
+ Lý  Huyền Trâm,LP002376,Male,No,0,No,2925,40,180,Bắc Giang,1
+ Ngô  Dạ Thi,LP002383,Male,Yes,3+,No,3242,142,480,Bắc Giang,0
+ Dương  Hương Thảo,LP002385,Male,Yes,,No,3863,70,300,Hà Nội,1
+ Nguyễn  Bích Lam,LP002389,Female,No,1,No,4028,131,360,Hồ Chí Minh,1
+ Hồ  Hiền Mai,LP002394,Male,Yes,2,No,4010,120,360,Bắc Giang,1
+ Đặng  Cẩm Nhung,LP002397,Female,Yes,1,No,3719,114,360,Hồ Chí Minh,1
+ Bùi  Hạ Vy,LP002399,Male,No,0,,2858,123,360,Đà Nẵng,0
+ Dương  Bảo Vy,LP002400,Female,Yes,0,No,3833,92,360,Hồ Chí Minh,1
+Võ  Hải Vân,LP002402,Male,Yes,0,No,3333,160,360,Hồ Chí Minh,1
+ Lê  Hồng Thúy,LP002412,Male,Yes,0,No,3007,151,360,Hà Nội,1
+ Đỗ  Hải Châu,LP002415,Female,No,1,,1850,81,360,Bắc Giang,
+ Hoàng/Huỳnh  Ái Nhân,LP002417,Male,Yes,3+,No,2792,171,360,Hà Nội,1
+ Dương  Hiểu Vân,LP002420,Male,Yes,0,No,2982,110,360,Bắc Ninh,1
+ Lý  Bích Hảo,LP002425,Male,No,0,No,3417,100,360,Bắc Giang,
+Võ  Hiếu Hạnh,LP002433,Male,Yes,1,No,18840,234,360,Bắc Ninh,1
+ Hồ  Hải Duyên,LP002440,Male,Yes,2,No,2995,184,360,Hồ Chí Minh,1
+ Phan  Huyền Thư,LP002441,Male,No,,No,3579,138,360,Hồ Chí Minh,
+ Nguyễn  Diễm Châu,LP002442,Female,Yes,1,No,3835,112,480,Bắc Ninh,0
+ Lê  Bích Như,LP002445,Female,No,1,No,3854,117,360,Ninh Bình,1
+Võ  Ái Nhân,LP002450,Male,Yes,2,No,5833,49,360,Hà Nội,0
+ Đỗ  Hạ Vy,LP002471,Male,No,0,No,3508,99,360,Hà Nội,1
+ Đặng  Hải Duyên,LP002476,Female,Yes,3+,No,1635,99,360,Hà Nội,1
+ Trần  Diễm Trang,LP002482,Female,No,0,Yes,3333,212,360,Ninh Bình,1
+Võ  Diệu Anh,LP002485,Male,No,1,No,24797,240,360,Bắc Giang,1
+ Đỗ  Hải Mỹ,LP002495,Male,Yes,2,No,5667,130,360,Ninh Bình,0
+Võ  Hải Phượng,LP002496,Female,No,0,No,3500,94,360,Bắc Ninh,0
+ Lê  Hồng Nga,LP002523,Male,Yes,3+,No,2773,108,360,Bắc Giang,1
+ Đặng  Cẩm Liên,LP002542,Male,Yes,0,,6500,144,360,Đà Nẵng,1
+ Lý  Hạnh Chi,LP002550,Female,No,0,No,5769,110,180,Hà Nội,1
+ Hồ  Bích Thu,LP002551,Male,Yes,3+,,3634,176,360,Ninh Bình,0
+ Nguyễn  Diệu Ngà,LP002553,,No,0,No,29167,185,360,Bắc Ninh,1
+ Vũ  Hạnh San,LP002554,Male,No,0,No,2166,122,360,Bắc Giang,1
+Võ  Diễm Hằng,LP002561,Male,Yes,0,No,5000,126,360,Bắc Ninh,1
+ Hoàng/Huỳnh  Cẩm Tú,LP002566,Female,No,0,No,5530,135,360,Hồ Chí Minh,
+ Lê  Cẩm Hường,LP002568,Male,No,0,No,9000,122,360,Bắc Giang,1
+Võ  Bạch Tuyết,LP002570,Female,Yes,2,No,10000,460,360,Hà Nội,1
+ Phan  Bảo Ngọc,LP002572,Male,Yes,1,,8750,297,360,Đà Nẵng,1
+ Lê  Hương Thu,LP002581,Male,Yes,0,No,2157,140,360,Bắc Ninh,
+ Hồ  Bích Loan,LP002584,Male,No,0,,1972,106,360,Đà Nẵng,1
+ Vũ  Hạnh Chi,LP002592,Male,No,0,No,4983,141,360,Ninh Bình,1
+ Lý  Di Nhiên,LP002593,Male,Yes,1,No,8333,,360,Hồ Chí Minh,1
+ Nguyễn  Hương Lan,LP002599,Male,Yes,0,No,3667,170,360,Hà Nội,1
+ Bùi  Hiếu Khanh,LP002604,Male,Yes,2,No,3166,145,360,Ninh Bình,1
+ Dương  Bảo Lễ,LP002605,Male,No,0,No,3271,90,360,Ninh Bình,1
+ Đặng  Dã Lan,LP002609,Female,Yes,0,No,2241,88,360,Hồ Chí Minh,0
+ Hồ  Ðoan Thanh,LP002610,Male,Yes,1,,1792,128,360,Đà Nẵng,1
+ Lý  Băng Băng,LP002612,Female,Yes,0,No,2666,84,480,Hà Nội,1
+ Trần  Diệp Anh,LP002614,,No,0,No,6478,108,360,Đà Nẵng,1
+ Lý  Giao Linh,LP002630,Male,No,0,,3808,83,360,Hồ Chí Minh,1
+ Nguyễn  Hồng Hoa,LP002635,Female,Yes,2,No,3729,117,360,Hà Nội,1
+ Hồ  Bích Vân,LP002639,Male,Yes,2,No,4120,128,360,Bắc Ninh,1
+ Hồ  Huyền Thoại,LP002644,Male,Yes,1,Yes,7500,75,360,Hồ Chí Minh,1
+ Lý  Ánh Mai,LP002651,Male,Yes,1,,6300,125,360,Bắc Giang,0
+ Lý  Hồng Như,LP002654,Female,No,,Yes,14987,177,360,Bắc Ninh,1
+ Lý  Cẩm Hường,LP002657,,Yes,1,Yes,570,68,360,Bắc Giang,1
+ Hoàng/Huỳnh  Huyền Trân,LP002711,Male,Yes,0,No,2600,96,360,Bắc Ninh,1
+ Vũ  Diễm Chi,LP002712,Male,No,2,No,2733,180,360,Bắc Ninh,
+ Lê  Hồng Khuê,LP002721,Male,Yes,2,Yes,7500,183,360,Đà Nẵng,1
+ Phan  Hàm Nghi,LP002735,Male,Yes,2,No,3859,121,360,Hà Nội,1
+ Lý  Bảo Lan,LP002744,Male,Yes,1,No,6825,162,360,Ninh Bình,1
+Võ  Hải Anh,LP002745,Male,Yes,0,No,3708,132,360,Bắc Giang,1
+ Dương  Huyền Thoại,LP002746,Male,No,0,No,5314,147,360,Hà Nội,1
+ Đặng  Diệu Loan,LP002747,Female,No,3+,No,2366,153,360,Hà Nội,0
+ Lê  Ánh Xuân,LP002754,Male,No,,No,2066,104,84,Ninh Bình,1
+ Vũ  Diễm Châu,LP002759,Male,Yes,2,No,5000,149,360,Đà Nẵng,1
+ Đỗ  Bạch Liên,LP002760,Female,No,0,No,3767,134,300,Hà Nội,1
+ Vũ  Bảo Lan,LP002766,Female,Yes,0,No,7859,165,180,Bắc Giang,1
+ Nguyễn  Huyền Trang,LP002769,Female,Yes,0,No,4283,120,360,Ninh Bình,1
+ Hồ  Bích Hà,LP002774,Male,Yes,0,No,1700,67,360,Bắc Giang,0
+ Đỗ  Bạch Vân,LP002775,,No,0,No,4768,125,360,Đà Nẵng,1
+ Trần  Ánh Linh,LP002781,Male,No,0,No,3083,120,360,Ninh Bình,1
+ Hoàng/Huỳnh  Hải Ðường,LP002782,Male,Yes,1,No,2667,148,360,Ninh Bình,1
+ Đỗ  Ðông Tuyền,LP002786,Female,Yes,0,No,1647,181,360,Bắc Giang,1
+ Phan  Hiền Chung,LP002790,Male,Yes,3+,No,3400,80,120,Đà Nẵng,1
+ Ngô  Diệu Nga,LP002791,Male,No,1,,16000,40,360,Hà Nội,1
+ Đặng  Hàm Ý,LP002793,Male,Yes,0,No,5333,90,360,Bắc Ninh,1
+ Đặng  Bích Hà,LP002802,Male,No,0,No,2875,95,6,Hà Nội,0
+ Bùi  Bích Ty,LP002803,Male,Yes,1,,2600,122,360,Hồ Chí Minh,1
+ Vũ  Bích Loan,LP002805,Male,Yes,2,No,5041,150,360,Hồ Chí Minh,1
+ Ngô  Diễm Kiều,LP002806,Male,Yes,3+,Yes,6958,150,360,Bắc Ninh,1
+ Vũ  Diệu Ái,LP002816,Male,Yes,1,No,3500,104,360,Hà Nội,
+ Đỗ  Bảo Thúy,LP002823,Male,Yes,0,No,5509,143,360,Bắc Ninh,1
+ Hoàng/Huỳnh  Hoa Liên,LP002825,Male,Yes,3+,No,9699,300,360,Hồ Chí Minh,1
+ Dương  Hồng Như,LP002826,Female,Yes,1,No,3621,171,360,Đà Nẵng,1
+ Đỗ  Ánh Thơ,LP002843,Female,Yes,0,No,4709,113,360,Ninh Bình,1
+ Nguyễn  Băng Băng,LP002849,Male,Yes,0,No,1516,35,360,Hồ Chí Minh,1
+ Lý  Ánh Dương,LP002850,Male,No,2,No,2400,46,360,Bắc Ninh,1
+ Bùi  Di Nhiên,LP002853,Female,No,0,No,3015,145,360,Bắc Giang,
+ Dương  Giáng Uyên,LP002856,Male,Yes,0,No,2292,119,360,Đà Nẵng,1
+ Đặng  Ánh Linh,LP002857,Male,Yes,1,Yes,2360,87,240,Bắc Ninh,1
+ Trần  Gia Quỳnh,LP002858,Female,No,0,No,4333,162,360,Đà Nẵng,0
+ Hoàng/Huỳnh  Bảo Huệ,LP002860,Male,Yes,0,Yes,2623,122,180,Hồ Chí Minh,1
+ Phan  Hồng Phương,LP002867,Male,No,0,Yes,3972,187,360,Hà Nội,1
+ Lý  Diễm Liên,LP002869,Male,Yes,3+,No,3522,81,180,Ninh Bình,1
+ Phạm  Gia Hân,LP002870,Male,Yes,1,No,4700,80,360,Ninh Bình,1
+ Hồ  Hiền Nhi,LP002876,Male,No,0,No,6858,176,360,Bắc Ninh,1
+ Phạm  Diệu Ngà,LP002878,Male,Yes,3+,No,8334,260,360,Bắc Ninh,1
+ Dương  Bảo Bình,LP002879,Male,Yes,0,No,3391,133,360,Đà Nẵng,0
+ Phan  Hồng Ðiệp,LP002885,Male,No,0,No,2868,70,360,Bắc Ninh,1
+ Vũ  An Bình,LP002890,Male,Yes,2,No,3418,135,360,Hồ Chí Minh,1
+ Lý  Anh Mai,LP002891,Male,Yes,0,Yes,2500,137,300,Hồ Chí Minh,1
+ Dương  Hồng Thúy,LP002899,Male,Yes,2,No,8667,254,360,Ninh Bình,1
+Võ  Cẩm Hạnh,LP002901,Male,No,0,No,2283,106,360,Đà Nẵng,
+ Nguyễn  Diễm Quyên,LP002907,Male,Yes,0,No,5817,109,360,Đà Nẵng,1
+ Bùi  Hoàng Lan,LP002920,Male,Yes,0,No,5119,120,360,Đà Nẵng,1
+ Đặng  Huệ Thương,LP002921,Male,Yes,3+,No,5316,158,180,Hồ Chí Minh,0
+ Hoàng/Huỳnh  Diễm Kiều,LP002932,Male,Yes,3+,No,7603,197,360,Ninh Bình,1
+ Đặng  Hàm Thơ,LP002935,Male,Yes,1,No,3791,85,360,Ninh Bình,1
+ Trần  Đan Thư,LP002952,Male,No,0,No,2500,60,360,Ninh Bình,1
+ Ngô  Bạch Hoa,LP002954,Male,Yes,2,No,3132,76,360,Hà Nội,
+ Dương  Hà Phương,LP002962,Male,No,0,No,4000,152,360,Ninh Bình,1
+ Lý  Bảo Phương,LP002965,Female,Yes,0,No,8550,96,360,Hồ Chí Minh,
+ Nguyễn  Bích Vân,LP002969,Male,Yes,1,No,2269,99,360,Bắc Giang,1
+ Đặng  Diệu Ngọc,LP002971,Male,Yes,3+,Yes,4009,113,360,Hà Nội,1
+ Lê  Diễm Quỳnh,LP002975,Male,Yes,0,No,4158,115,360,Bắc Giang,1
+ Phan  Ánh Dương,LP002980,Male,No,0,No,3250,126,360,Đà Nẵng,
+ Lý  Hải Nhi,LP002986,Male,Yes,0,No,5000,158,360,Bắc Ninh,1
+ Bùi  Diễm Phúc,LP002989,Male,No,0,Yes,9200,98,180,Ninh Bình,1
